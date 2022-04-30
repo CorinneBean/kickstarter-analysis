@@ -20,14 +20,14 @@ For the analysis of outcomes based on goals a total number of 1,047 Kickstarter 
 No challenges or difficulties were encountered during this analysis.
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 Based on the information from the analysis one conclusion that could be drawn from this data is that Kickstarter campaigns appear to be most successful if they launch in May. Another conclusion from this information is that December appears to be the least successful campaign month, and the summer months (May-August) and October all appear to have roughly the same number of failed campaigns.
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
 Based on the information from the analysis one conclusion that could be drawn from this data is that Kickstarter campaigns appear to have the highest success percentage if the campaign goals are less than 1,000. There is a downward trend of success percentage as the campaign goal is increased with the highest chance of failure being at campaign goals starting at 45,000 and above. 
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
 One of the limitations of this data is that the dataset has campaigns from different countries. The exchange value is not considered in this dataset for proper comparison. Another limitation is that Outcomes Based on Launch Date reviews the complete parent category of *Theater* while Outcomes based on Goals only reviews campaign goals for campaigns in the subcategory *Plays*.
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
 A possible table and/or graph that could be created is one that compared the complete outcomes based on goals for the parent category *Theater* vs only evaluating the subcategory *Plays*. The same could be said for the opposite where we could create a table and/or graph to only review how the subcategory *Plays* compared to the Outcomes Based on Launch Dates.
