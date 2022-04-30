@@ -10,11 +10,11 @@ The purpose of this analysis is to visualize campaign outcomes based on launch d
 
 ### Analysis of Outcomes Based on Launch Date
 For the analysis of outcomes based on launch dates a total number of 4,064 different theater related Kickstarter campaigns were reviewed. These different campaigns took place from 2010 to 2017. Among the 4064 different Kickstarter campaigns that were analysis a total of 839 were successful. 
-![Outcome Vs Launch chart](Resources/Theater_Outcomes_Vs_Launch.png)
+![Outcome Vs Launch chart](https://github.com/CorinneBean/kickstarter-analysis/blob/93dcb6da9ce8a42cdc27a30b04484a93c30ccbdd/Resources/Theater_Outcomes_Vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 For the analysis of outcomes based on goals a total number of 1,047 Kickstarter campaigns were reviewed. The campaigns were narrowed down to the subcategory *Plays* and were broken down by campaign goals ranging from less than 1,000 to 50,000 or more.
-![Outcome Vs Goals chart](Resources/Outcomes_Vs_Goals.png)
+![Outcome Vs Goals chart](https://github.com/CorinneBean/kickstarter-analysis/blob/93dcb6da9ce8a42cdc27a30b04484a93c30ccbdd/Resources/Outcomes_Vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 No challenges or difficulties were encountered during this analysis.
